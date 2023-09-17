@@ -1,0 +1,92 @@
+div.offer{
+  width: 100%;
+  height: 400px;
+  box-sizing: border-box;
+  padding: 50px;
+  
+
+}
+div.offer>div.shopoffer{
+  width: 70%;
+  height: 250px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color:crimson;
+  border-radius: 50px;
+}
+
+div.offer>div.shopoffer a{
+  width: 100%;
+  height: 100%;
+  display: block;
+  text-decoration: none;
+}
+div.offer>div.shopoffer img{
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  margin: 30px auto;
+
+}
+
+div.offer>div.shopoffer div.number1{
+  margin-top: 10px;
+  font-size: 10px;
+  font-family: tiik;
+  text-align: center;
+}
+div.offer>div.shopoffer div.shopchild1{
+  width: 100%;
+  direction: ltr;
+  
+  
+  
+}
+div.offer>div.shopoffer div.shopchild1>span{
+  font-size: 13px;
+  display: inline-block;
+  font-family: tiik;
+  color: black;
+  font-weight: bold;
+}
+div.offer>div.shopoffer div.shopchild1>span.shop2{
+  width: 30%;
+  background-color:red;
+  border-radius: 30px;
+  color: whitesmoke;
+ 
+}
+div.offer>div.shopoffer div.number1>h4{
+  font-size: 12px;
+  font-family: tiik;
+  color: #2b2b2b;
+  line-height: normal;
+  text-decoration: line-through;
+
+
+  
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+div.swiper-slide>img{
+  font-size: 12px;
+
+}

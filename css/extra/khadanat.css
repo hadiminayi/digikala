@@ -1,0 +1,154 @@
+div.khadamat{
+    margin-top: 20px;
+    width: 100%;
+    height: 388px;
+    box-sizing: border-box;
+    position: relative;
+}
+div.khadamat>div.khadamatbg{
+    width: 30%;
+    height: 388px;
+    background-color:#941b80;
+    background-image: url("../../imges/img/بک\ گراند\ 1\ دیجی\ کالا.png");
+    background-size: cover;
+    display: inline-block;
+    margin-right: 130px;
+    border-radius: 20px;
+}
+div.khadamatbg ~ div.khadamatbg2{
+    width: 55%;
+    height: 388px;
+    background-color: #941b80;
+    position: absolute;
+    right: 550px;
+    transform: translatey(-392px);
+    border-radius: 20px;
+    
+}
+div.khadamatbg2>div.khadamatpro{
+    width: 95%;
+    height: 360px;
+    background-color: rgb(255, 254, 254);
+    border-radius: 20px;
+    position: absolute;
+    top: 15px;
+    right: 30px;
+    
+}
+div.khadamatbg2>svg{
+    width: 120px;
+    height: 40px;
+    position: absolute;
+    right: -380px;
+    top: 30px;
+}
+div.khadamatbg2>h3{
+    font-size: 15px;
+    position: absolute;
+    right: -380px;
+    line-height: 160px;
+    font-family: tiik;
+    color: whitesmoke;
+    font-weight: bold;
+}
+div.khadamatbg2>a{
+    position: absolute;
+    right: -380px;
+    top: 110px;
+    width: 136px;
+    height: 40px;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    line-height: 40px;
+    text-align: center;
+    font-family: tiik;
+    color: whitesmoke;
+    font-size: 13px;
+}
+div.khadamatpro>h4{
+    position: absolute;
+    right: 40px;
+    line-height: 60px;
+    font-family: tiik;
+}
+div.khadamatpro>a{
+    text-decoration: none;
+    position: absolute;
+    left: 20px;
+    line-height: 60px;
+    font-family: tiik;
+    font-size: 13px;
+}
+div.khadamatpro div.col1{
+    width:16% ;
+    height: 330px;
+    margin-top: 20px;
+    display: inline-block;
+}
+div.khadamatpro div.col2{
+    width:16% ;
+    height: 330px;
+    display: inline-block;
+    margin-top:20px;
+}
+div.khadamatpro div.col3{
+    width:16% ;
+    height: 330px;
+    display: inline-block;
+    margin-top:20px;
+}
+div.khadamatpro div.col4{
+    width:16% ;
+    height: 330px;
+    display: inline-block;
+    margin-top:20px;
+}
+div.khadamatpro div.col5{
+    width:16% ;
+    height: 330px;
+    display: inline-block;
+    margin-top:20px;
+}
+div.khadamatpro div.col6{
+    width:16% ;
+    height: 330px;
+    display: inline-block;
+    margin-top:20px;
+}
+div.khadamatpro div.col1>div.img1{
+    width: 100px;
+    height: 100px;
+    
+}
+div.khadamatpro div.col1>div.img1>a{
+    width: inherit;
+    height: inherit;
+    text-decoration: none;
+}
+div.khadamatpro div.col1>div.img1>a>img{
+    width: inherit;
+    height: inherit;
+    margin: 20px auto;
+    margin-right: 15px;
+   
+}
+div.khadamatpro div.col1>div.img2{
+    width: 100px;
+    height: 100px;
+}
+div.khadamatpro div.col1>div.img2>a{
+    width: inherit;
+    height: inherit;
+    text-decoration: none;
+}
+div.khadamatpro div.col1>div.img2>a>img{
+    width: inherit;
+    height: inherit;
+    margin: 50px auto;
+    margin-right:15px;
+   
+}
+
+
+
+

@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@font-face{
+    font-family: tiik;
+    src: url('../../fonts/IRANYekanWeb-Bold.eot');
+    src: url('../../fonts/IRANYekanWeb-Bold.ttf');
+    src: url('../../fonts/IRANYekanWeb-Bold.woff');
+    src: url('../../fonts/IRANYekanWeb-Bold.woff2');
+    
+}
+
+
+
+
+div.login2{
+    width: 500px;
+    height: 550px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    box-sizing: border-box;
+    position: relative;
+    left:calc(50% - 500px /2);
+    top: 100px;
+}
+
+div.login2>svg{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 30px   ;
+    left: calc(50% - 200px /2);
+
+}
+
+div.login2>div.text{
+    width: auto;
+    height: auto;
+
+}
+div.login2>div.text>h1{
+    font-family: tiik;
+    font-size: 20px;
+    position: absolute;
+    left: 360px;
+    top: 200px;
+
+}
+div.login2>div.text>div.span{
+    display: block;
+    position: absolute;
+    left: 450px;
+    top: 250px;
+    font-family: tiik;
+    font-size: 12px;
+
+}
+div.login2>div.text>div.span>span{
+    font-family: tiik;
+
+}
+
+div.login2>div.text>span{
+    font-size: 12px;
+    font-family: tiik;
+    position: absolute;
+    left:270px;
+    top: 280px
+
+}
+div.login2>div.text>input[type=text]{
+    width: 330px;
+    height: 50px;
+    border: 2px solid blue;
+    box-sizing: border-box;
+    position: absolute;
+    top: 330px;
+    left: calc(50% - 330px /2);
+    border-radius: 10px;
+    transition: 300ms;
+    direction: rtl;
+    
+}
+div.login2>div.text>input[type=text]:focus{
+    outline: 2px solid red;
+    border: none;
+}
+
+div.login2>div.text>div.spaneror{
+    position: absolute;
+    width: 500px;
+    height: auto;
+    left: 250px;
+    top: 0;
+    display: block;
+    direction: rtl;
+    
+
+}
+
+div.login2>div.text>div.spaneror>span{
+    position: absolute;
+    top: 390px;
+    left: 20px;
+    font-size: 15px;
+    line-height: 20px;
+    font-size: small;
+    display: none;
+    font-family: tiik;
+
+    
+    
+}
+
+div.login2:active>div.text>div.spaneror>span{
+    display: block;
+    color: crimson;
+}
+
+div.login2>div.text>div.vorod{
+    width: 300px;
+    height: 50px;
+    background-color: crimson;
+    position: absolute;
+    top: 430px;
+    left: calc(50% - 300px /2);
+    border-radius: 10px;
+    
+}
+div.login2>div.text>div.vorod>a{
+    width: inherit;
+    text-decoration: none;
+    font-size: 22px;
+    position: absolute;
+    left: calc(50% - 50px /2);
+    top: 5px;
+    font-family: tiik;
+    color: antiquewhite;
+
+}

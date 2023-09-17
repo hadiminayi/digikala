@@ -1,0 +1,150 @@
+div.khandany{
+    width: 100%;
+    height: 300px;
+    text-align: center ;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 70px;  
+}
+
+div.khandany>div.img1>a{
+    width: 250px;
+    height: 250px;
+    margin: 10px 10px;
+    display: block;
+    
+}
+div.khandany>a>div.img1>img{
+    width: 323px;
+    height: 199px;
+    position: absolute;
+    left: 74%;
+    top: 30px;
+    border-radius: 15px;
+    
+   
+    
+
+}
+div.khandany>a>div.img2>img{
+    width: 323px;
+    height: 199px;
+    position: absolute;
+    left: 52%;
+    top: 30px;
+    border-radius: 15px;
+    
+    
+}
+
+div.khandany>a>div.img3>img{
+    width: 323px;
+    height: 199px;
+    position: absolute;
+    left: 30%;
+    top: 30px;
+    border-radius: 15px;
+    
+    
+
+}
+
+div.khandany>a>div.img4>img{
+    width: 323px;
+    height: 199px;
+    position: absolute;
+    left: 8%;
+    top: 30px;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+
+}
+div.khandany>h4{
+    font-size: 15px;
+    font-family: tiik;
+    position: absolute;
+    right: 90px;
+    bottom: 290px;
+   
+    
+}
+div.khandany>a:nth-of-type(1){
+    font-size: 11px;
+    font-family: tiik;
+    text-decoration: none;
+    display: block;
+    color: #63bfd3;
+    position: absolute;
+    left: 150px;
+    bottom:290px ;
+}
+div.khandany>a>div.span1>span{
+    display: block;
+    position: absolute;
+    right: 75px;
+    top: 223px;
+    font-size: 11px;
+    font-family: tiik;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 318px;
+    height: 60px;
+    line-height: 40px;
+    color: rgb(59, 58, 58);
+}
+div.khandany>a>div.span2>span{
+    display: block;
+    position: absolute;
+    right: 412px;
+    top: 223px;
+    font-size: 11px;
+    font-family: tiik;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 318px;
+    height: 60px;
+    line-height: 40px;
+    color: rgb(59, 58, 58);
+}
+div.khandany>a>div.span3>span{
+    display: block;
+    position: absolute;
+    right: 748px;
+    top: 223px;
+    font-size: 11px;
+    font-family: tiik;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 318px;
+    height: 60px;
+    line-height: 40px;
+    color: rgb(59, 58, 58);
+}
+div.khandany>a>div.span4>span{
+    display: block;
+    position: absolute;
+    right: 1084px;
+    top: 223px;
+    font-size: 11px;
+    font-family: tiik;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 318px;
+    height: 60px;
+    line-height: 40px;
+    color: rgb(59, 58, 58);
+}
+

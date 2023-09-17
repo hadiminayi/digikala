@@ -1,0 +1,384 @@
+div.poshtiban{
+    width: 100%;
+    height: 539px;
+    box-sizing: border-box;
+    margin: 20px auto;
+    position: relative;
+}
+div.poshtiban>svg{
+    padding-right: 20px;
+    padding-top: 20px;
+    width: 120px;
+}
+div.poshtiban>h6{
+    font-size: 13px;
+    font-family: tiik;
+    padding-right: 20px;
+    padding-top: 10px;
+    color: rgb(167, 165, 165);
+
+}
+div.poshtiban>div.box1>a{
+    text-decoration: none;
+    display: block;
+}
+div.poshtiban>div.box1>a>svg{
+    position: absolute;
+    right: 100px;
+    top: 140px;
+}
+div.poshtiban>div.box1>a>span{
+    font-family: tiik;
+    top: 207px;
+    position: absolute;
+    font-size: 13px;
+    right: 60px;
+    color: gray;
+}
+div.poshtiban>div.box2>a>svg{
+    position: absolute;
+    right: 400px;
+    top: 140px;
+}
+div.poshtiban>div.box2>a>span{
+    font-family: tiik;
+    top: 207px;
+    position: absolute;
+    font-size: 13px;
+    right: 370px;
+    color: gray;
+}
+div.poshtiban>div.box3>a>svg{
+    position: absolute;
+    right: 710px;
+    top: 150px;
+}
+div.poshtiban>div.box3>a>span{
+    font-family: tiik;
+    top: 209px;
+    position: absolute;
+    font-size: 13px;
+    right: 680px;
+    color: gray;
+}
+div.poshtiban>div.box4>a>svg{
+    position: absolute;
+    right: 1020px;
+    top: 150px;
+}
+div.poshtiban>div.box4>a>span{
+    font-family: tiik;
+    top: 209px;
+    position: absolute;
+    font-size: 13px;
+    right: 970px;
+    color: gray;
+}
+div.poshtiban>div.box5>a>svg{
+    position: absolute;
+    right: 1300px;
+    top: 150px;
+}
+div.poshtiban>div.box5>a>span{
+    font-family: tiik;
+    top: 209px;
+    position: absolute;
+    font-size: 13px;
+    right: 1270px;
+    color: gray;
+}
+div.poshtiban>div.boxpro{
+    width: 100%;
+    height: 308px;
+    position: absolute;
+    display: block;
+    top: 250px;
+    
+}
+div.boxpro>div.text1>a{
+    display: block;
+    text-decoration: none;
+    color: gray;
+    font-family: tiik;
+    line-height: 35px;
+    padding-right: 20px;
+}
+div.boxpro>div.text1>h3{
+    font-family: tiik;
+    line-height: 40px;
+    font-size: 17px;
+    padding-right: 20px;
+}
+div.boxpro>div.text2>a{
+    display: block;
+    text-decoration: none;
+    color: gray;
+    font-family: tiik;
+    line-height: 35px;
+    padding-right: 400px;
+    transform: translateY(-250px);
+}
+div.boxpro>div.text2>h3{
+    font-family: tiik;
+    line-height: 40px;
+    font-size: 17px;
+    padding-right: 400px;
+    transform: translateY(-250px);
+
+}
+div.boxpro>div.text3>a{
+    display: block;
+    text-decoration: none;
+    color: gray;
+    font-family: tiik;
+    line-height: 35px;
+    padding-right: 800px;
+    transform: translateY(-460px);
+}
+div.boxpro>div.text3>h3{
+    font-family: tiik;
+    line-height: 40px;
+    font-size: 17px;
+    padding-right: 800px;
+    transform: translateY(-463px);
+
+}
+div.boxpro>div.text4>h3:nth-of-type(1){
+    font-family: tiik;
+    line-height: 40px;
+    font-size: 17px;
+    padding-right: 1200px;
+    transform: translateY(-605px);
+}
+div.boxpro>div.text4>svg:nth-of-type(1){
+    width: 30px;
+    position: absolute;
+    top: 60px;
+    left: 300px;
+    fill: gray;
+}
+div.boxpro>div.text4>svg:nth-of-type(2){
+    width: 30px;
+    position: absolute;
+    top: 60px;
+    left: 230px;
+    fill: gray;
+}
+div.boxpro>div.text4>svg:nth-of-type(3){
+    width: 30px;
+    position: absolute;
+    top: 60px;
+    left: 160px;
+    fill: gray;
+    
+}
+div.boxpro>div.text4>svg:nth-of-type(4){
+    width: 40px;
+    position: absolute;
+    top: 52px;
+    left: 88px;
+    fill-opacity: 0.5;
+    fill: gray;
+}
+div.boxpro>div.text4>h3:nth-of-type(2){
+    font-family: tiik;
+    line-height: 40px;
+    font-size: 17px;
+    padding-right: 1180px;
+    transform: translateY(-530px);
+}
+div.boxpro>div.text4>input[type=email]{
+    transform: translateY(-500px);
+    position: absolute;
+    left: 80px;
+    top: 670px;
+    width: 263px;
+    height: 50px;
+    border-radius: 10px;
+    font-family: tiik;
+    border: unset;
+    background-color: rgb(215, 207, 207);
+}
+div.boxpro>div.text4>input[type=email]::placeholder{
+    color: gray;
+    transform: translateX(-15px);
+}
+div.boxpro>div.text4>a{
+    display: block;
+    transform: translateY(-520px);
+    position: absolute;
+    left: 10px;
+    height: 51px;
+    width: 57px;
+    background-color: gray;
+    border-radius: 20px;
+    line-height: 50px;
+    text-align: center;
+    font-family: tiik;
+    color: whitesmoke;
+}
+div.poshtiban>div.center-poshtiban{
+    width: 1489px;
+    height: 77px;
+    background-color: #3c4b6d;
+    position: absolute;
+    top: 550px;
+    transform: translateX(-20px);
+    border-radius: 10px;
+}
+div.poshtiban>div.center-poshtiban>img{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+div.poshtiban>div.center-poshtiban>h3{
+    font-family: tiik;
+    padding-right: 80px;
+    transform: translateY(-40px);
+    color: whitesmoke;
+    font-size: 20px;
+}
+div.poshtiban>div.center-poshtiban>svg:nth-of-type(1){
+    transform: translateY(-74px);
+    position: absolute;
+    left: 440px;
+}
+div.poshtiban>div.center-poshtiban>svg:nth-of-type(2){
+    transform: translateY(-76px);
+    position: absolute;
+    left: 295px;
+    width: 135px;
+}
+div.poshtiban>div.center-poshtiban>svg:nth-of-type(3){
+    transform: translateY(-77px);
+    position: absolute;
+    left: 150px;
+    width: 135px;
+}
+div.poshtiban>div.center-poshtiban>svg:nth-of-type(4){
+    transform: translateY(-77px);
+    position: absolute;
+    left: 70px;
+    background-color: white;
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+
+}
+div.poshtiban>div.botom-poshtiban{
+    width: 70%;
+    height: 250px;
+    margin-top: 570px;
+    
+}
+div.botom-poshtiban>h1{
+    font-family: tiik;
+    font-size: 25px;
+    line-height: 80px;
+    padding-right: 20px;
+}
+div.botom-poshtiban>p{
+    font-family: tiik;
+    color: gray;
+    font-size: 13px;
+    padding-right: 20px;
+}
+div.botom-poshtiban>h5{
+    font-family: tiik;
+    line-height: 40px;
+    font-size: 20px;
+    color: gray;
+    opacity: .4;
+    padding-right: 20px;
+}
+div.botom-poshtiban>a{
+    font-family: tiik;
+    padding-right: 20px;
+    line-height: 20px;
+    font-size: 13px;
+    text-decoration: none;
+    color: rgb(0, 157, 255);
+    
+}
+div.poshtiban>div.botom-poshtiban-left{
+    width: 30%;
+    height: 250px;
+    position: absolute;
+    left: 0;
+    top: 659px;
+    
+}
+div.poshtiban>div.botom-poshtiban-left>div.left1{
+    width: 120px;
+    height: 120px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-right: 40px;
+
+}
+div.poshtiban>div.botom-poshtiban-left>div.left1>a{
+    display: block;
+    width: inherit;
+    height: inherit;
+}
+div.poshtiban>div.botom-poshtiban-left>div.left1>a>img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    object-fit: contain;
+    top: 50px;
+    left: 308px;   
+}
+div.poshtiban>div.botom-poshtiban-left>div.left2{
+    width: 120px;
+    height: 120px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: absolute;
+    top: 40px;
+    left: 150px;
+
+}
+div.poshtiban>div.botom-poshtiban-left>div.left2>a{
+    display: block;
+    width: inherit;
+    height: inherit;
+}
+div.poshtiban>div.botom-poshtiban-left>div.left2>a>img{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    object-fit: contain;
+    top: 20px;
+    left: 20px;   
+
+}
+div.poshtiban>div.botom-poshtiban-left>div.left3{
+    width: 120px;
+    height: 120px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    position: absolute;
+    top: 40px;
+    left: 5px;
+
+}
+div.poshtiban>div.botom-poshtiban-left>div.left3>a{
+    display: block;
+    width: inherit;
+    height: inherit;
+}
+div.poshtiban>div.botom-poshtiban-left>div.left3>a>img{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    object-fit: cover;
+    top: 20px;
+    left: 20px;   
+
+}
+
+

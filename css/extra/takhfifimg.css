@@ -1,0 +1,17 @@
+div.takhfif{
+    width: 1305px;
+    height: 162px;
+    margin: 20px auto;
+}
+div.takhfif>a{
+    width: inherit;
+    height: inherit;
+    display: block;
+}
+div.takhfif>a>img{
+    width: inherit;
+    height: inherit;
+    object-fit: cover;
+    border-radius: 20px;
+
+}

@@ -1,0 +1,254 @@
+div.shegeft-angiz{
+    width: 1304px;
+    height: 114px;
+    background-color: #edf0f0;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: -30px;
+
+}
+div.shegeft-angiz>div.img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: relative;
+
+}
+div.shegeft-angiz>div.img>img{
+    width: inherit;
+    height: inherit;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+div.shegeft-angiz>div.svg{
+    position: relative;
+    width: 220px;
+    height: 220px;
+}
+div.shegeft-angiz>div.svg>svg{
+    width: inherit;
+    height: inherit;
+    position: absolute;
+    right: 110px;
+    top:-110px;
+}
+div.shegeft-angiz>div.takhfif{
+    width: 111px;
+    height: 28px;
+    border-radius: 20px;
+    background-color: #39ae00;
+    position: relative;
+    top: -250px;
+    right: -240px;
+    cursor: pointer;
+}
+div.shegeft-angiz>div.takhfif>h5{
+    font-family: tiik;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bold;
+    line-height: 30px;
+    cursor: pointer;
+}
+div.shegeft-angiz>div.tedad{
+    width: 142px;
+    height: 50px;
+    background-color: white;
+    border-radius: 30px;
+    position: relative;
+    top: -315px;
+    right: 1120px;
+    cursor: pointer;
+    z-index: 1;
+}
+div.shegeft-angiz>div.tedad>h5{
+    color: green;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+    font-family: tiik;
+    cursor: pointer;
+}
+
+div.shegeft-angiz>div.box1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 1250px;
+    right: 650px;
+    cursor: pointer;
+}
+div.shegeft-angiz>div.box1>img{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+div.shegeft-angiz>div.box1>span{
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    background-color: crimson;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    top: 60px;
+}
+div.shegeft-angiz>div.box2{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 1250px;
+    right: 750px;
+    cursor: pointer;
+}
+div.shegeft-angiz>div.box2>img{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+div.shegeft-angiz>div.box2>span{
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    background-color: crimson;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    top: 60px;
+}
+div.shegeft-angiz>div.box3{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 1250px;
+    right: 850px;
+    cursor: pointer;
+}
+div.shegeft-angiz>div.box3>img{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+div.shegeft-angiz>div.box3>span{
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    background-color: crimson;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    top: 60px;
+}
+div.shegeft-angiz>div.box4{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 1250px;
+    right: 950px;
+    cursor: pointer;
+}
+div.shegeft-angiz>div.box4>img{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+div.shegeft-angiz>div.box4>span{
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    background-color: crimson;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    top: 60px;
+}
+div.shegeft-angiz>div.box5{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 1250px;
+    right: 1050px;
+    cursor: pointer;
+}
+div.shegeft-angiz>div.box5>img{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+div.shegeft-angiz>div.box5>span{
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    background-color: crimson;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    top: 60px;
+}
+div.shegeft-angiz>div.box6{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 1250px;
+    left: 300px;
+    cursor: pointer;
+}
+div.shegeft-angiz>div.box6>img{
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+div.shegeft-angiz>div.box6>span{
+    display: inline-block;
+    position: absolute;
+    width: 40px;
+    height: 20px;
+    background-color: crimson;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    top: 60px;
+}
+   
+
+
+
+   
+
+
